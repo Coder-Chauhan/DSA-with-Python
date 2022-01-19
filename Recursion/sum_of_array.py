@@ -1,8 +1,9 @@
-def sum_of_array(arr,n):
+def sum_of_array(arr):
+    n = len(arr)
     if n == 0:
         return 0
-    return arr[n]+sum_of_array(arr,n-1)
+    small_output = sum_of_array(arr[1:])
+    return arr[0] + small_output
     
-arr = [1,2,3,4,5,6]
-n = len(arr)-1
-print(sum_of_array(arr,n)+arr[0])
+arr = [9,8,9,10]
+print(sum_of_array(arr))
