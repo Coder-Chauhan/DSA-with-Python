@@ -1,5 +1,5 @@
 def binary_search(a,x,si,ei):
-    if si > ei:
+    f si > ei:
         return -1
     mid = (si+ei)//2
     if a[mid]==x:
