@@ -3,7 +3,7 @@ def binary_search(a,x,si,ei):
         return -1
     mid = (si+ei)//2
     if a[mid]==x:
-        return miD
+        return mid
     elif a[mid] > x:
         return binary_search(a,x,si,mid-1)
     else :
