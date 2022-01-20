@@ -1,4 +1,4 @@
-df binary_search(a,x,si,ei):
+def binary_search(a,x,si,ei):
     if si > ei:
         return -1
     mid = (si+ei)//2
