@@ -9,4 +9,4 @@ def binary_search(a,x,si,ei):
     else :
         return binary_search(a,x,mid+1,ei)
 a = [1,2,3,4,5,6,7,8]
-print(binary_search(a,4,0,7))
+print(binary_search(a,4,0,7)
