@@ -6,4 +6,4 @@ def sum_of_array(arr):
     return arr[0] + small_output
     
 arr = [9,8,9,10]
-print(sum_of_array(arr))
+print(sum_of_array(arr
