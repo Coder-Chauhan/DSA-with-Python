@@ -29,4 +29,4 @@ for i in range(n):
     li.append(ele)
 
 print("List :", li)
-print("Sorted List :", sort(li,n)
+print("Sorted List :", sort(li,n))
