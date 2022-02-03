@@ -17,4 +17,4 @@ for i in range(n) :
     arr.append(ele)
 
 print(arr)
-print(rearrange(arr,n))
+print(rearrange(arr,n)
