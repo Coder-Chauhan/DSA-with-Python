@@ -13,4 +13,4 @@ for i in range(n):
     li.append(ele)
 
 print("List :", li)
-print(min
+print(min_
