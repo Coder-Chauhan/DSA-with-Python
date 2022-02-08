@@ -10,4 +10,4 @@ for i in range(1,5):
     arr[j+1] = current
 
 
-prin
+print
