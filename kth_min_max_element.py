@@ -16,4 +16,4 @@ for i in range(n):
 k = int(input("Enter the kth number"))
 
 print("List :", li)
-print(min
+print(mi
