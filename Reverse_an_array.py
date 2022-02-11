@@ -12,4 +12,4 @@ for i in range(n):
     li.append(ele)
 
 print(li)
-print(reverse_arra
+print(reverse_array
